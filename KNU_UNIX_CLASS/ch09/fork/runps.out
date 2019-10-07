@@ -1,0 +1,6 @@
+   PID TTY      TIME CMD
+ 24137 pts/9    0:00 runps
+ 24113 pts/9    0:00 csh
+Parent pid of a.out: 24113
+
+Parent process id: 24137, parent pid: 24113, ls completed

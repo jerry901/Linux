@@ -1,0 +1,18 @@
+2017년 4월  4일 화요일 오후 03시 02분 28초
+a.out
+args.c
+atexit.c
+a.txt
+b.txt
+ch08.tar
+environ.c
+out1.txt
+out2.txt
+pid.c
+printenv.c
+README_env.TXT
+README_pid.TXT
+README_serial.TXT
+test.c
+uid.c
+/home/shcho/class/chang/ch08

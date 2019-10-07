@@ -1,0 +1,6 @@
+main: main.o  copyPtr.o
+	gcc -g -o main main.o copyPtr.o 
+main.o: main.c copy.h
+	gcc -g -c main.c
+copyPtr.o: copyPtr.c copy.h
+	gcc -g -c copyPtr.c

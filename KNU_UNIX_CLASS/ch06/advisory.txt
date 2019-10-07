@@ -1,0 +1,24 @@
+Good afternoon!!
+advisory.txt
+a.out
+ch06.tar
+dbcreate
+dbcreate.c
+file_lock
+file_lock.c
+mandatory.txt
+rdlock
+rdlock.c
+rdlockf.c
+README_2WRLCK_lockf_fcntl.TXT
+README_mandatory.TXT
+README_WRnRDLCK_fcntl.TXT
+student.h
+temp.txt
+test1.db
+test.db
+test.txt
+wrlock
+wrlock.c
+wrlockf
+wrlockf.c

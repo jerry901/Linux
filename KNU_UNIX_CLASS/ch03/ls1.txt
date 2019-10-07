@@ -1,0 +1,38 @@
+a.out
+a.out
+copy1.c
+copy.c
+copy.h
+copy.o
+gdb
+input.file
+input.txt
+longest.c
+ls.txt
+main
+main.c
+main.o
+Makefile
+Makefile.org
+Makefile_pt
+README_make.TXT
+a.out
+copy1.c
+copy.c
+copy.h
+copy.o
+copy1.c
+copy.c
+copy.h
+copy.o
+gdb
+longest.c
+ls.txt
+main
+main.c
+main.o
+Makefile
+Unix System programming.
+Spring has just come around the corner.
+Humans need not apply.
+How are you doing?

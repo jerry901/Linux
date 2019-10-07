@@ -1,0 +1,1 @@
+len=55, /* copy: from을 to에 복사, to가 충분히 크다*/

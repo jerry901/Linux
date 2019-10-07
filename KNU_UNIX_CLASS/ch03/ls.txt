@@ -1,0 +1,17 @@
+a.out
+copy1.c
+copy.c
+copy.h
+copy.o
+gdb
+input.file
+input.txt
+longest.c
+ls.txt
+main
+main.c
+main.o
+Makefile
+Makefile.org
+Makefile_pt
+README_make.TXT

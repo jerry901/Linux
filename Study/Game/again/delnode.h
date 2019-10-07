@@ -1,0 +1,1 @@
+void delNode(Node* pNode);

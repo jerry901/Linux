@@ -1,0 +1,18 @@
+총 174
+-rw-r--r--   1 shcho    jsp          148  9월  4일  18:04 README.TXT
+-rwxr-xr-x   1 shcho    jsp         6244  9월  4일  17:56 convert
+-rw-r--r--   1 shcho    jsp          270 2002년  4월 30일 convert.c
+-rw-r--r--   1 shcho    jsp        46592  9월 13일  12:16 fork.tar
+-rwxr-xr-x   1 shcho    jsp         6088  9월  4일  17:55 myecho
+-rw-r--r--   1 shcho    jsp          163 2002년  4월 30일 myecho.c
+-rwxr-xr-x   1 shcho    jsp         6936  9월 20일  16:23 runls3
+-rw-r--r--   1 shcho    jsp          649  9월 13일  16:15 runls3.c
+-rw-r--r--   1 shcho    jsp            0  9월 20일  16:23 runls3.out
+-rwxr-xr-x   1 shcho    jsp         6912  9월 13일  12:14 runps
+-rw-r--r--   1 shcho    jsp          640  9월 13일  12:14 runps.c
+-rw-r--r--   1 shcho    jsp          163  9월 13일  12:15 runps.out
+-rwxr-xr-x   1 shcho    jsp         6420  9월  4일  17:59 shv1
+-rw-r--r--   1 shcho    jsp          451 2002년  4월 30일 shv1.c
+Parent pid of a.out: 10940
+
+Parent process id: 13783, parent pid: 10940, ls completed
