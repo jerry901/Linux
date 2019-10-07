@@ -1,6 +1,4 @@
-# Java
-
-자바를 공부하는 레파지토리 ^>^
+# Github 
 
 ## Git tutorial
 
