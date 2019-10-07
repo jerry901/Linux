@@ -75,8 +75,9 @@ git push -f origin b1
 ### local에서 merge 하는 법
 ```bash
 #b1 branch가 있다고 치자
-#머지하기 직전 상태에서 master branch 로 checkout한 후 git merge b1을 한다.
-#git checkout b1
-#git merge b1
-#git -D branch
+#머지하기 직전 상태에서 master branch 로checkout한다. 
+git checkout b1 
+#b1을 master branch로 merge한다.
+git merge b1
 #old branch를 delete한다.
+git -D branch
