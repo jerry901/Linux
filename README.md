@@ -15,6 +15,13 @@ $ sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stab
 $ sudo apt-get update
 $ sudo apt-get install google-chrome-stable
 ```
+
+## Change Gdm background (login 화면)
+```bash
+  https://c-nergy.be/blog/?p=15084
+```
+
+
 # Github 
 
 ## Git tutorial
