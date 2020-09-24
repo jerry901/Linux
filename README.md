@@ -3,8 +3,23 @@
 $ sudo apt install -y zsh wget curl git
 $ sudo apt install gnome-shell-extensions
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-
 ```
+## 윈도우에서 GRUB 삭제하기
+```BASH
+cmd.exe 관리자 권한
+diskpart
+list disk
+sel disk [NUM]
+list vol
+sel vol [NUM] SYSTEM 선택
+assign letter=Z:
+exit
+Z:
+dir
+cd EFI
+rmdir /S ubuntu
+```
+
 ## purple flash
   gnome shell : goodbye gdm3 ~~
 
