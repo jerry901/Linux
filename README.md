@@ -1,9 +1,20 @@
 # 초기 설정
 ```bash
 $ sudo apt install -y zsh wget curl git
+$ sudo apt install gnome-shell-extensions
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
-```
 
+```
+## purple flash
+  gnome shell : goodbye gdm3 ~~
+
+## Chrome 설치
+```BASH
+$ wget -q -O - https://dl-ssl.google.com/linux/linux_signing_key.pub | sudo apt-key add -
+$ sudo sh -c 'echo "deb [arch=amd64] http://dl.google.com/linux/chrome/deb/ stable main" >> /etc/apt/sources.list.d/google.list'
+$ sudo apt-get update
+$ sudo apt-get install google-chrome-stable
+```
 # Github 
 
 ## Git tutorial
