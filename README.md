@@ -1,3 +1,8 @@
+# 초기 설정
+```bash
+$ sudo apt install -y zsh wget curl git
+```
+
 # Github 
 
 ## Git tutorial
