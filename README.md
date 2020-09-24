@@ -1,5 +1,8 @@
 # 초기 설정
 
+## 한영키가 alt랑 같이 동작하는 문제
+https://j-history.tistory.com/4
+
 ## 윈도우에서 GRUB 삭제하기
 ```BASH
 cmd.exe 관리자 권한
