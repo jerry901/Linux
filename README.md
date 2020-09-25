@@ -1,7 +1,9 @@
 # 초기 설정
 
 ## 한영키가 alt랑 같이 동작하는 문제
+```
 https://j-history.tistory.com/4
+```
 
 ## 윈도우에서 GRUB 삭제하기
 ```BASH
@@ -25,6 +27,7 @@ $ sudo apt-get update
 $ sudo apt install -y zsh wget curl git
 $ sudo apt install gnome-shell-extensions
 $ sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+$ sudo apt install tilda -y
 
 // 그놈 트윅스 설지
 $ sudo apt-add-repository universe //이미 존재할 수 있음
@@ -32,7 +35,26 @@ $ sudo apt install gnome-tweak-tool ///
 
 //dcof-editor
 $ sudo apt-get install -y dconf-editor
-$ sudo apt-get install -y dconf-editor
+```
+
+## python3 venv
+```bash
+$ apt-get install python3-pip
+$ sudo apt-get update 
+$ sudo apt-get upgrade
+$ sudo pip3 install virtualenv virtualenvwrapper
+```
+
+## vim vundle
+```bash
+$ sudo apt install vim
+$ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+$ vim +PluginInstall +qall
+```
+
+## YCM settings
+```
+https://neverapple88.tistory.com/26
 ```
 
 ## purple flash 해결
