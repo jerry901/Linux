@@ -1,7 +1,9 @@
 # 초기 설정
 
 ## 한영키가 alt랑 같이 동작하는 문제
+```
 https://j-history.tistory.com/4
+```
 
 ## 윈도우에서 GRUB 삭제하기
 ```BASH
@@ -35,10 +37,16 @@ $ sudo apt install gnome-tweak-tool ///
 $ sudo apt-get install -y dconf-editor
 ```
 
-## vim vundla
+## vim vundle
 ```bash
+$ sudo apt install vim
 $ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 $ vim +PluginInstall +qall
+```
+
+## YCM settings
+```
+https://neverapple88.tistory.com/26
 ```
 
 ## purple flash 해결
