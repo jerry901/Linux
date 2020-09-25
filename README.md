@@ -37,6 +37,14 @@ $ sudo apt install gnome-tweak-tool ///
 $ sudo apt-get install -y dconf-editor
 ```
 
+## python3 venv
+```bash
+$ apt-get install python3-pip
+$ sudo apt-get update 
+$ sudo apt-get upgrade
+$ sudo pip3 install virtualenv virtualenvwrapper
+```
+
 ## vim vundle
 ```bash
 $ sudo apt install vim
